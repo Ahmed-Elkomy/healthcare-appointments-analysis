@@ -9,4 +9,4 @@ This dataset collects information from 100k medical appointments in Brazil and i
 - the last column: it says ‘No’ if the patient showed up to their appointment, and ‘Yes’ if they did not show up.
 
 
-**We were able to make deep analysis on the data to figure out the root cause of no-show appointments**
+**I was able to make deep analysis on the data to figure out the root cause of no-show appointments**
